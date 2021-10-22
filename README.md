@@ -19,7 +19,7 @@ Please see the [Demo Video](https://www.loom.com/share/9f57008c539444b49a6c972e2
 3. `cd` into the directory that was created when you cloned the repo (it should be called something like `hw4-lm2k-<your-github-id>`).
 4. Execute `npm install`
 5. Implement any changes required to allow the user to mark items complete/incomplete
-6. Ensure that these changes are reflected in the Data Model, and that updates to the UI are triggered by Data Model updates, rather than simply changes to componebnt state.
+6. Ensure that these changes are reflected in the Data Model, and that updates to the UI are triggered by Data Model updates, rather than simply changes to component state.
 6. Push your final changes to GitHub before the deadline.
 7. Create a screencast video and submit the link to Canvas before the deadline.
 8. Indicate in your Canvas comments which requirements (including extra credit) you believe you met.
