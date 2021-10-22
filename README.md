@@ -3,11 +3,12 @@
 **SI669 Fall 2021**
 
 ## Video Walkthrough
-To be released on Slack Sunday or Monday
+Please see the [Demo Video](https://www.loom.com/share/9f57008c539444b49a6c972e2775ddc0). 
 
 ## Learning Goals
 * Gain comfort working with React Navigation
 * Gain comfort working with CRUD, including an application-wide Data Model that supports subscriptions
+* Gain additional comfort working with React Native UI Components
 
 ## Project Goals
 * Modify a ToDo List app so that it can allow the user to mark items completed
@@ -25,6 +26,8 @@ To be released on Slack Sunday or Monday
 
 ## Notes
 * Be sure to show that checkboxes can be checked and unchecked.
+* You will need to read documentation on the React Native Elements CheckBox to see how it works.
+* You may need to make changes to both the HomeScreen and DataModel.
 * Show that none of the other CRUD operations have been impacted by your changes.
 * We will look at your code to make sure changes to checkboxes result in changes to the data model.
 
@@ -40,7 +43,7 @@ To be released on Slack Sunday or Monday
 
 ## Extra Credit
 
-Implement a Switch that allows the user to hide/unhide completed items.
+Implement a Switch that allows the user to hide/unhide completed items. Please see the Extra Credit [Demo Video](https://www.loom.com/share/ced1df9c86284c6aacc879d80f6667b1). 
 
 ## Grading (up to 4 points)
 | No. | Requirement  | Points |
